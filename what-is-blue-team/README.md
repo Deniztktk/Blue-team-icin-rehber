@@ -1,4 +1,6 @@
 # Blue team nedir?
+> ⚠️ Created by Deniz Tektek — do not copy, rebrand, or redistribute without proper attribution.
+
 🛡️ Blue Team: Kurumsal Savunmanın MimarlarıBlue Team, bir organizasyonun bilgi güvenliğini sağlamak için savunma stratejileri geliştiren,
 sistemleri proaktif olarak izleyen ve siber saldırılara karşı anında müdahale eden uzman ekiptir. Kısacası; kaleyi koruyan ve kuşatmalara
 karşı tetikte bekleyen muhafızlardır.
